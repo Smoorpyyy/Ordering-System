@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\QCU\\source\\repos\\NewOrdering\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8515F4DE-4C04-4EF4-930E-78EEE7CD6E0C}|NewOrdering\\NewOrdering.vbproj|c:\\users\\qcu\\source\\repos\\newordering\\newordering\\collar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8515F4DE-4C04-4EF4-930E-78EEE7CD6E0C}|NewOrdering\\NewOrdering.vbproj|solutionrelative:newordering\\collar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8515F4DE-4C04-4EF4-930E-78EEE7CD6E0C}|NewOrdering\\NewOrdering.vbproj|c:\\users\\qcu\\source\\repos\\newordering\\newordering\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8515F4DE-4C04-4EF4-930E-78EEE7CD6E0C}|NewOrdering\\NewOrdering.vbproj|solutionrelative:newordering\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8515F4DE-4C04-4EF4-930E-78EEE7CD6E0C}|NewOrdering\\NewOrdering.vbproj|c:\\users\\qcu\\source\\repos\\newordering\\newordering\\cage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8515F4DE-4C04-4EF4-930E-78EEE7CD6E0C}|NewOrdering\\NewOrdering.vbproj|solutionrelative:newordering\\cage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8515F4DE-4C04-4EF4-930E-78EEE7CD6E0C}|NewOrdering\\NewOrdering.vbproj|c:\\users\\qcu\\source\\repos\\newordering\\newordering\\foods.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8515F4DE-4C04-4EF4-930E-78EEE7CD6E0C}|NewOrdering\\NewOrdering.vbproj|solutionrelative:newordering\\foods.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8515F4DE-4C04-4EF4-930E-78EEE7CD6E0C}|NewOrdering\\NewOrdering.vbproj|c:\\users\\qcu\\source\\repos\\newordering\\newordering\\foods.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8515F4DE-4C04-4EF4-930E-78EEE7CD6E0C}|NewOrdering\\NewOrdering.vbproj|solutionrelative:newordering\\foods.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8515F4DE-4C04-4EF4-930E-78EEE7CD6E0C}|NewOrdering\\NewOrdering.vbproj|c:\\users\\qcu\\source\\repos\\newordering\\newordering\\collar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8515F4DE-4C04-4EF4-930E-78EEE7CD6E0C}|NewOrdering\\NewOrdering.vbproj|solutionrelative:newordering\\collar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8515F4DE-4C04-4EF4-930E-78EEE7CD6E0C}|NewOrdering\\NewOrdering.vbproj|c:\\users\\qcu\\source\\repos\\newordering\\newordering\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8515F4DE-4C04-4EF4-930E-78EEE7CD6E0C}|NewOrdering\\NewOrdering.vbproj|solutionrelative:newordering\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8515F4DE-4C04-4EF4-930E-78EEE7CD6E0C}|NewOrdering\\NewOrdering.vbproj|c:\\users\\qcu\\source\\repos\\newordering\\newordering\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8515F4DE-4C04-4EF4-930E-78EEE7CD6E0C}|NewOrdering\\NewOrdering.vbproj|solutionrelative:newordering\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8515F4DE-4C04-4EF4-930E-78EEE7CD6E0C}|NewOrdering\\NewOrdering.vbproj|c:\\users\\qcu\\source\\repos\\newordering\\newordering\\cage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8515F4DE-4C04-4EF4-930E-78EEE7CD6E0C}|NewOrdering\\NewOrdering.vbproj|solutionrelative:newordering\\cage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8515F4DE-4C04-4EF4-930E-78EEE7CD6E0C}|NewOrdering\\NewOrdering.vbproj|c:\\users\\qcu\\source\\repos\\newordering\\newordering\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8515F4DE-4C04-4EF4-930E-78EEE7CD6E0C}|NewOrdering\\NewOrdering.vbproj|solutionrelative:newordering\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\NewOrdering\\NewOrdering\\Form2.vb",
+              "RelativeDocumentMoniker": "NewOrdering\\Form2.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\NewOrdering\\NewOrdering\\Form2.vb",
+              "RelativeToolTip": "NewOrdering\\Form2.vb",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAAJoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-03T10:34:16.652Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "collar.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\NewOrdering\\NewOrdering\\collar.vb",
+              "RelativeDocumentMoniker": "NewOrdering\\collar.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\NewOrdering\\NewOrdering\\collar.vb [Design]",
+              "RelativeToolTip": "NewOrdering\\collar.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-03T10:34:36.834Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "foods.vb",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\NewOrdering\\NewOrdering\\foods.vb",
+              "RelativeDocumentMoniker": "NewOrdering\\foods.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\NewOrdering\\NewOrdering\\foods.vb",
+              "RelativeToolTip": "NewOrdering\\foods.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-03T09:10:40.107Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\NewOrdering\\NewOrdering\\Form1.vb",
+              "RelativeDocumentMoniker": "NewOrdering\\Form1.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\NewOrdering\\NewOrdering\\Form1.vb",
+              "RelativeToolTip": "NewOrdering\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-03T05:31:55.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\NewOrdering\\NewOrdering\\Form2.vb",
+              "RelativeDocumentMoniker": "NewOrdering\\Form2.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\NewOrdering\\NewOrdering\\Form2.vb [Design]",
+              "RelativeToolTip": "NewOrdering\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-03T07:31:04.012Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\NewOrdering\\NewOrdering\\Form1.vb",
+              "RelativeDocumentMoniker": "NewOrdering\\Form1.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\NewOrdering\\NewOrdering\\Form1.vb [Design]",
+              "RelativeToolTip": "NewOrdering\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-03T04:44:12.477Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cage.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\NewOrdering\\NewOrdering\\cage.vb",
+              "RelativeDocumentMoniker": "NewOrdering\\cage.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\NewOrdering\\NewOrdering\\cage.vb [Design]",
+              "RelativeToolTip": "NewOrdering\\cage.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-03T07:56:36.305Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "collar.vb",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\NewOrdering\\NewOrdering\\collar.vb",
+              "RelativeDocumentMoniker": "NewOrdering\\collar.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\NewOrdering\\NewOrdering\\collar.vb",
+              "RelativeToolTip": "NewOrdering\\collar.vb",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-03T06:54:15.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "foods.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\NewOrdering\\NewOrdering\\foods.vb",
+              "RelativeDocumentMoniker": "NewOrdering\\foods.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\NewOrdering\\NewOrdering\\foods.vb [Design]",
+              "RelativeToolTip": "NewOrdering\\foods.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-03T08:42:29.762Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "cage.vb",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\NewOrdering\\NewOrdering\\cage.vb",
+              "RelativeDocumentMoniker": "NewOrdering\\cage.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\NewOrdering\\NewOrdering\\cage.vb",
+              "RelativeToolTip": "NewOrdering\\cage.vb",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAuwHMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-03T10:23:31.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
